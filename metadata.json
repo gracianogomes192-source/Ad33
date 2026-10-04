@@ -1,0 +1,6 @@
+{
+  "name": "Centro Médico Atlântico",
+  "description": "Website demonstrativo profissional para o Centro Médico Atlântico, com apresentação de serviços de saúde, especialidades, equipa médica demonstrativa e solicitação de marcação de consultas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
